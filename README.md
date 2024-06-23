@@ -1,4 +1,6 @@
-🔎Credit card financial dashboard using Power BI:
+# Credit card financial dashboard using Power BI:
+
+🔗Insights:
 ▪️Developed an interactive dashboard using transaction and consumer data from a SQL database to prove real-time insights.
 ▪️Streamlined data processing & analysis to monitor key performances metrics and trends.
 ▪️Shared actionable insights with stakeholders based on dashboard findings to support-decision -making processes.
